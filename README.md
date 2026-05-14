@@ -1,4 +1,3 @@
-cat > README.md <<'EOF' 
 # Taller de Métricas para la Gestión de Proyectos de Software 
  
 Este repositorio contiene un ejercicio autoguiado para medir el avance, calidad, eficiencia y costos 
@@ -12,7 +11,3 @@ Aplicar métricas de gestión de proyectos de software para tomar decisiones bas
 ## Métricas analizadas 
  - Porcentaje de tareas completadas. - Velocity del sprint. - Bugs abiertos y cerrados. - Tiempo promedio de resolución. - Horas estimadas vs. horas reales. - Variación de presupuesto. - Tareas vencidas. - Riesgos del proyecto. 
 EOF 
- 
-git add . 
-git commit -m "chore: estructura inicial del taller" 
-git push
